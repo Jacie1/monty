@@ -1,5 +1,4 @@
 #include "monty.h"
-
 /**
 * execute - function that executes the opcode
 * @stack: head stack linked list
