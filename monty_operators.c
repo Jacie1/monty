@@ -1,5 +1,4 @@
 #include "monty.h"
-
 /**
 * f_add - function that adds the top two elements of the stack
 * @head: double pointer head to the stack
